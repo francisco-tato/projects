@@ -18,6 +18,10 @@ body {
   line-height: 1.6;
 }
 
+li {
+  list-style: none;
+}
+
 /* Hero Section */
 .hero {
   text-align: center;
